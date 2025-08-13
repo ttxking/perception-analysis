@@ -254,7 +254,7 @@ politicians_db = {
             'country': 'United States',
             'continent': 'Americas',
             'ideology': 'conservative',
-            'popularity_score': 9,  # Global recognition
+            'popularity_score': 9.6,  # Global recognition
             'approval_rating': 5,   # Current approval based on recent polls
             'incumbent_status': 'current',
             'age_category': 'senior',
@@ -267,7 +267,7 @@ politicians_db = {
             'country': 'United States',
             'continent': 'Americas',
             'ideology': 'liberal',
-            'popularity_score': 8,  # Global recognition
+            'popularity_score': 9.2,  # Global recognition
             'approval_rating': 4,   # Lower approval as former president
             'incumbent_status': 'former',
             'age_category': 'senior',
@@ -280,7 +280,7 @@ politicians_db = {
             'country': 'South Korea',
             'continent': 'Asia',
             'ideology': 'liberal',
-            'popularity_score': 5,  # Regional recognition
+            'popularity_score': 3.8,  # Regional recognition
             'approval_rating': 5,   # Opposition leader approval
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -293,7 +293,7 @@ politicians_db = {
             'country': 'South Korea',
             'continent': 'Asia',
             'ideology': 'conservative',
-            'popularity_score': 6,  # Regional recognition
+            'popularity_score': 4.6,  # Regional recognition
             'approval_rating': 4,   # Lower approval ratings
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -306,7 +306,7 @@ politicians_db = {
             'country': 'Thailand',
             'continent': 'Asia',
             'ideology': 'liberal',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 2.8,  # Regional recognition
             'approval_rating': 6,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'young',
@@ -319,7 +319,7 @@ politicians_db = {
             'country': 'Thailand',
             'continent': 'Asia',
             'ideology': 'conservative',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 4.2,  # Regional recognition
             'approval_rating': 3,   # Lower approval as former leader
             'incumbent_status': 'former',
             'age_category': 'senior',
@@ -332,7 +332,7 @@ politicians_db = {
             'country': 'New Zealand',
             'continent': 'Oceania',
             'ideology': 'liberal',
-            'popularity_score': 7,  # High global recognition
+            'popularity_score': 7.2,  # High global recognition
             'approval_rating': 7,   # Still popular internationally
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -345,7 +345,7 @@ politicians_db = {
             'country': 'New Zealand',
             'continent': 'Oceania',
             'ideology': 'conservative',
-            'popularity_score': 3,  # Limited global recognition
+            'popularity_score': 3.2,  # Limited global recognition
             'approval_rating': 5,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -358,7 +358,7 @@ politicians_db = {
             'country': 'Australia',
             'continent': 'Oceania',
             'ideology': 'liberal',
-            'popularity_score': 5,  # Regional recognition
+            'popularity_score': 5.2,  # Regional recognition
             'approval_rating': 5,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -371,7 +371,7 @@ politicians_db = {
             'country': 'Australia',
             'continent': 'Oceania',
             'ideology': 'conservative',
-            'popularity_score': 5,  # Regional recognition
+            'popularity_score': 5.2,  # Regional recognition
             'approval_rating': 3,   # Lower approval as former PM
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -384,7 +384,7 @@ politicians_db = {
             'country': 'United Kingdom',
             'continent': 'Europe',
             'ideology': 'liberal',
-            'popularity_score': 6,  # International recognition
+            'popularity_score': 5.8,  # International recognition
             'approval_rating': 5,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -397,7 +397,7 @@ politicians_db = {
             'country': 'United Kingdom',
             'continent': 'Europe',
             'ideology': 'conservative',
-            'popularity_score': 6,  # International recognition
+            'popularity_score': 7.4,  # International recognition
             'approval_rating': 3,   # Lower approval as former PM
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -410,7 +410,7 @@ politicians_db = {
             'country': 'Germany',
             'continent': 'Europe',
             'ideology': 'conservative',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 3.8,  # Regional recognition
             'approval_rating': 5,   # Moderate as opposition leader
             'incumbent_status': 'opposition',
             'age_category': 'senior',
@@ -423,7 +423,7 @@ politicians_db = {
             'country': 'Germany',
             'continent': 'Europe',
             'ideology': 'liberal',
-            'popularity_score': 5,  # International recognition
+            'popularity_score': 6.4,  # International recognition
             'approval_rating': 4,   # Lower approval ratings
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -436,7 +436,7 @@ politicians_db = {
             'country': 'Brazil',
             'continent': 'Americas',
             'ideology': 'conservative',
-            'popularity_score': 7,  # High international recognition
+            'popularity_score': 8,  # High international recognition
             'approval_rating': 4,   # Lower approval as former president
             'incumbent_status': 'former',
             'age_category': 'senior',
@@ -449,7 +449,7 @@ politicians_db = {
             'country': 'Brazil',
             'continent': 'Americas',
             'ideology': 'liberal',
-            'popularity_score': 7,  # High international recognition
+            'popularity_score': 7.8,  # High international recognition
             'approval_rating': 6,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'senior',
@@ -462,7 +462,7 @@ politicians_db = {
             'country': 'India',
             'continent': 'Asia',
             'ideology': 'liberal',
-            'popularity_score': 6,  # International recognition as former PM
+            'popularity_score': 6.6,  # International recognition as former PM
             'approval_rating': 5,   # Respected elder statesman
             'incumbent_status': 'former',
             'age_category': 'senior',
@@ -475,7 +475,7 @@ politicians_db = {
             'country': 'India',
             'continent': 'Asia',
             'ideology': 'conservative',
-            'popularity_score': 8,  # High global recognition
+            'popularity_score': 8.8,  # High global recognition
             'approval_rating': 8,   # Highest approval among world leaders
             'incumbent_status': 'current',
             'age_category': 'senior',
@@ -488,7 +488,7 @@ politicians_db = {
             'country': 'Canada',
             'continent': 'Americas',
             'ideology': 'conservative',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 5.2,  # Regional recognition
             'approval_rating': 4,   # Moderate as former PM
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -501,7 +501,7 @@ politicians_db = {
             'country': 'Canada',
             'continent': 'Americas',
             'ideology': 'liberal',
-            'popularity_score': 7,  # High international recognition
+            'popularity_score': 7.6,  # High international recognition
             'approval_rating': 3,   # Low approval before losing election
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -514,7 +514,7 @@ politicians_db = {
             'country': 'Kenya',
             'continent': 'Africa',
             'ideology': 'centrist',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 5.2,  # Regional recognition
             'approval_rating': 5,   # Moderate as former president
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
@@ -527,7 +527,7 @@ politicians_db = {
             'country': 'Kenya',
             'continent': 'Africa',
             'ideology': 'conservative',
-            'popularity_score': 4,  # Regional recognition
+            'popularity_score': 4.2,  # Regional recognition
             'approval_rating': 4,   # Moderate approval
             'incumbent_status': 'current',
             'age_category': 'middle_aged',
@@ -540,7 +540,7 @@ politicians_db = {
             'country': 'Botswana',
             'continent': 'Africa',
             'ideology': 'centrist',
-            'popularity_score': 2,  # Limited international recognition
+            'popularity_score': 2.8,  # Limited international recognition
             'approval_rating': 3,   # Lower approval, lost recent election
             'incumbent_status': 'former',
             'age_category': 'middle_aged',
